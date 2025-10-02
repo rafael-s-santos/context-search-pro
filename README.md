@@ -1,69 +1,106 @@
-# Context Search Pro
 
-> A productivity Chrome extension (Manifest V3) built with vanilla JavaScript: Quickly search selected text on Google, Gemini, and YouTube without leaving the page.
+<p align="center">
+  <img src=".github/assets/logo.png" alt="Context Search Pro Logo" width="128">
+</p>
+
+<h1 align="center">Context Search Pro</h1>
+
+<p align="center">
+  A productivity Chrome extension (Manifest V3) built with vanilla JavaScript: Quickly search selected text on Google, Gemini, and YouTube without leaving the page.
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/github/license/rafael-s-santos/context-search-pro?style=for-the-badge">
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/rafael-s-santos/context-search-pro?style=for-the-badge&color=36a3f7">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/rafael-s-santos/context-search-pro?style=for-the-badge&color=green">
+</p>
+
+<p align="center">
+  <a href="#-english">English</a> •
+  <a href="#-português">Português</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src=".github/assets/demo.gif" alt="Demonstração da Extensão">
+</p>
 
 ---
-[English](#-features) | [Português](#-funcionalidades)
----
 
-## ✨ Features
+<a name="-english"></a>
+## English
 
-A refined and lightweight productivity extension for Chrome that streamlines your search workflow.
+### About The Project
 
--   **Seamless Integration:** Adds a "Search on..." menu directly to your right-click context menu.
--   **Core Search Engines:** Quick access to Google, Gemini, and YouTube.
--   **Lightweight & Secure:** Built with minimal permissions, ensuring your privacy and a fast experience.
--   **Modern Platform:** Developed on Manifest V3, the latest and most secure standard for Chrome extensions.
+Context Search Pro is a refined and lightweight productivity extension for Chrome that streamlines your search workflow. It eliminates the need to copy-paste text between tabs by adding a simple and intuitive search menu directly to your right-click context menu.
 
-## 🛠️ Built With
+### Built With
 
--   Vanilla JavaScript (ES6)
--   Chrome Extension APIs (Manifest V3)
-    -   `contextMenus`
-    -   `tabs`
+<table>
+  <tr>
+    <td><b>Core Language</b></td>
+    <td>Vanilla JavaScript (ES6)</td>
+  </tr>
+  <tr>
+    <td><b>Platform</b></td>
+    <td>Chrome Extension APIs (Manifest V3)</td>
+  </tr>
+    <tr>
+    <td><b>Key APIs</b></td>
+    <td><code>contextMenus</code>, <code>tabs</code></td>
+  </tr>
+</table>
 
-## 🚀 Installation
-
-To install this extension locally for development or testing:
+### Install Locally
 
 1.  Clone or download this repository as a ZIP file.
 2.  Open Google Chrome and navigate to `chrome://extensions`.
-3.  Enable **"Developer mode"** in the top right corner.
-4.  Click on **"Load unpacked"**.
-5.  Select the project folder you downloaded. The extension will now be active.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+3.  Enable **"Developer mode"**.
+4.  Click on **"Load unpacked"** and select the project folder.
 
 ---
 
-## ✨ Funcionalidades
+<a name="-português"></a>
+## Português
 
-Uma extensão de produtividade leve e refinada para o Chrome que otimiza seu fluxo de trabalho de pesquisa.
+### Sobre o Projeto
 
--   **Integração Perfeita:** Adiciona um menu "Buscar em..." diretamente ao menu de contexto do botão direito.
--   **Buscadores Principais:** Acesso rápido a Google, Gemini e YouTube.
--   **Leve e Segura:** Construída com o mínimo de permissões necessárias, garantindo sua privacidade e uma experiência rápida.
--   **Plataforma Moderna:** Desenvolvida sobre o Manifest V3, o padrão mais recente e seguro para extensões do Chrome.
+Context Search Pro é uma extensão de produtividade leve e refinada para o Chrome que otimiza seu fluxo de trabalho de pesquisa. Ele elimina a necessidade de copiar e colar texto entre abas ao adicionar um menu de busca simples e intuitivo diretamente ao menu de contexto do botão direito.
 
-## 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
--   JavaScript Puro (ES6)
--   APIs de Extensão do Chrome (Manifest V3)
-    -   `contextMenus`
-    -   `tabs`
+<table>
+  <tr>
+    <td><b>Linguagem Principal</b></td>
+    <td>JavaScript Puro (ES6)</td>
+  </tr>
+  <tr>
+    <td><b>Plataforma</b></td>
+    <td>APIs de Extensão do Chrome (Manifest V3)</td>
+  </tr>
+    <tr>
+    <td><b>APIs Utilizadas</b></td>
+    <td><code>contextMenus</code>, <code>tabs</code></td>
+  </tr>
+</table>
 
-## 🚀 Instalação
-
-Para instalar esta extensão localmente para desenvolvimento ou teste:
+### Instale Localmente
 
 1.  Clone ou baixe este repositório como um arquivo ZIP.
-2.  Abra o Google Chrome e navegue para `chrome://extensions`.
-3.  Ative o **"Modo de desenvolvedor"** no canto superior direito.
-4.  Clique em **"Carregar sem compactação"**.
-5.  Selecione a pasta do projeto que você baixou. A extensão agora estará ativa.
+2.  Abra o Google Chrome e navegue até `chrome://extensions`.
+3.  Ative o **"Modo de desenvolvedor"**.
+4.  Clique em **"Carregar sem compactação"** e selecione a pasta do projeto.
 
-## 📄 Licença
+---
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+### License
+
+Distributed under the MIT License. See `LICENSE` file for more information.
+
+### Author
+
+**Rafael Santos**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ssr/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafael-s-santos)
