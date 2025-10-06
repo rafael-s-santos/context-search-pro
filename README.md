@@ -43,7 +43,7 @@ Context Search Pro is a refined and lightweight productivity extension for Chrom
 The easiest way to install is directly from the Chrome Web Store:
 
 <a href="https://chromewebstore.google.com/detail/context-search-pro/dhedoljikiimdkkifknocbpbihdihbpk" target="_blank">
-    <img alt="Get it on the Chrome Web Store" src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLS2Tsv58a.png">
+    <img alt="Get it on the Chrome Web Store" src=".github/assets/chrome-store-badge.svg" width="218">
 </a>
 
 #### Install Locally (for Developers)
@@ -84,7 +84,7 @@ O Context Search Pro é uma extensão de produtividade leve e refinada para o Ch
 A forma mais fácil de instalar é diretamente pela Chrome Web Store:
 
 <a href="https://chromewebstore.google.com/detail/context-search-pro/dhedoljikiimdkkifknocbpbihdihbpk" target="_blank">
-    <img alt="Disponível na Chrome Web Store" src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLS2Tsv58a.png">
+    <img alt="Disponível na Chrome Web Store" src=".github/assets/chrome-store-badge.svg" width="218">
 </a>
 
 #### Instale Localmente (Para Desenvolvedores)
