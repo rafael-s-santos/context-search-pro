@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Context Search Pro"
+  },
+  "extensionDescription": {
+    "message": "Search selected text on multiple sites directly from the context menu."
+  },
+  "contextMenuTitle": {
+    "message": "Search \"%s\" on..."
+  }
+}

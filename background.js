@@ -32,7 +32,7 @@ function createMenus() {
   chrome.contextMenus.removeAll(() => {
     chrome.contextMenus.create({
       id: "searchParent",
-      title: "Buscar \"%s\" em...",
+      title: chrome.i18n.getMessage("contextMenuTitle"),
       contexts: ["selection"]
     });
     for (const id in SEARCH_ENGINES) {
@@ -45,6 +45,7 @@ function createMenus() {
     }
   });
 }
+
 chrome.runtime.onInstalled.addListener(createMenus);
 chrome.runtime.onStartup.addListener(createMenus);
 
