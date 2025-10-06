@@ -25,8 +25,9 @@
 
 <br>
 
+<h2 align="center">Visual Demo</h2>
 <p align="center">
-  <img src=".github/assets/demo.gif" alt="Demonstração da Extensão">
+  <img src=".github/assets/screenshot-1.png" alt="Screenshot: Context Menu in Action" width="600">
 </p>
 
 ---
