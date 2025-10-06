@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src=".github/assets/logo.png" alt="Context Search Pro Logo" width="128">
 </p>
@@ -10,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/context-search-pro/dhedoljikiimdkkifknocbpbihdihbpk" target="_blank">
+    <img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/v/dhedoljikiimdkkifknocbpbihdihbpk?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <br>
   <img alt="License" src="https://img.shields.io/github/license/rafael-s-santos/context-search-pro?style=for-the-badge">
   <img alt="Repo Size" src="https://img.shields.io/github/repo-size/rafael-s-santos/context-search-pro?style=for-the-badge&color=36a3f7">
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/rafael-s-santos/context-search-pro?style=for-the-badge&color=green">
@@ -35,6 +38,21 @@
 
 Context Search Pro is a refined and lightweight productivity extension for Chrome that streamlines your search workflow. It eliminates the need to copy-paste text between tabs by adding a simple and intuitive search menu directly to your right-click context menu.
 
+### Installation
+
+The easiest way to install is directly from the Chrome Web Store:
+
+<a href="https://chromewebstore.google.com/detail/context-search-pro/dhedoljikiimdkkifknocbpbihdihbpk" target="_blank">
+    <img alt="Get it on the Chrome Web Store" src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLS2Tsv58a.png">
+</a>
+
+#### Install Locally (for Developers)
+
+1.  Clone or download this repository as a ZIP file.
+2.  Open Google Chrome and navigate to `chrome://extensions`.
+3.  Enable **"Developer mode"**.
+4.  Click on **"Load unpacked"** and select the project folder.
+
 ### Built With
 
 <table>
@@ -52,13 +70,6 @@ Context Search Pro is a refined and lightweight productivity extension for Chrom
   </tr>
 </table>
 
-### Install Locally
-
-1.  Clone or download this repository as a ZIP file.
-2.  Open Google Chrome and navigate to `chrome://extensions`.
-3.  Enable **"Developer mode"**.
-4.  Click on **"Load unpacked"** and select the project folder.
-
 ---
 
 <a name="-português"></a>
@@ -66,7 +77,22 @@ Context Search Pro is a refined and lightweight productivity extension for Chrom
 
 ### Sobre o Projeto
 
-Context Search Pro é uma extensão de produtividade leve e refinada para o Chrome que otimiza seu fluxo de trabalho de pesquisa. Ele elimina a necessidade de copiar e colar texto entre abas ao adicionar um menu de busca simples e intuitivo diretamente ao menu de contexto do botão direito.
+O Context Search Pro é uma extensão de produtividade leve e refinada para o Chrome que otimiza seu fluxo de trabalho de pesquisa. Ele elimina a necessidade de copiar e colar texto entre abas ao adicionar um menu de busca simples e intuitivo diretamente ao menu de contexto do botão direito.
+
+### Instalação
+
+A forma mais fácil de instalar é diretamente pela Chrome Web Store:
+
+<a href="https://chromewebstore.google.com/detail/context-search-pro/dhedoljikiimdkkifknocbpbihdihbpk" target="_blank">
+    <img alt="Disponível na Chrome Web Store" src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLS2Tsv58a.png">
+</a>
+
+#### Instale Localmente (Para Desenvolvedores)
+
+1.  Clone ou baixe este repositório como um arquivo ZIP.
+2.  Abra o Google Chrome e navegue até `chrome://extensions`.
+3.  Ative o **"Modo de desenvolvedor"**.
+4.  Clique em **"Carregar sem compactação"** e selecione a pasta do projeto.
 
 ### Tecnologias Utilizadas
 
@@ -84,13 +110,6 @@ Context Search Pro é uma extensão de produtividade leve e refinada para o Chro
     <td><code>contextMenus</code>, <code>tabs</code></td>
   </tr>
 </table>
-
-### Instale Localmente
-
-1.  Clone ou baixe este repositório como um arquivo ZIP.
-2.  Abra o Google Chrome e navegue até `chrome://extensions`.
-3.  Ative o **"Modo de desenvolvedor"**.
-4.  Clique em **"Carregar sem compactação"** e selecione a pasta do projeto.
 
 ---
 
